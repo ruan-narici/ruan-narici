@@ -11,12 +11,12 @@
 
 <h3 align="center">♨️ CONTATO ♨️ <br><br></h3>
 <!--LINKEDIN---><a href="https://www.linkedin.com/in/ruan-narici-6a590416b/" target="_blank">
-<img width = 120px align="center" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img width = 130px align="center" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <!--WHATSAPP---><a href="https://wa.me/5577991586189?text=Sinta-se%20livre%20para%20entrar%20em%20contato%20comigo." alt="WhatsApp" target="_blank"><>
-<img width = 120px align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp">
+<img width = 130px align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp">
 </a>
 <!--INSTAGRAM---><a href="https://www.instagram.com/ruan.narici/" alt="Instagram" target="_blank"><>
-<img width = 120px align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
+<img width = 130px align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
 </a>
 <h1></h1>
 <br><br><br>
