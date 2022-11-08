@@ -6,7 +6,7 @@
 <p align="left">🟢 Sou apaixonado por tecnologia e programação desde criança.<br></p>
 <p align="left">🟢Estou em transição de carreira aprofundando meus conhecimentos na área da programação para poder ficar cada vez mais preparado para o mercado de trabalho.<br></p>
 <p align="left">🟢 Utilizo do meu tempo livre para poder praticar ou criar projetos back-end e/ou front-end.<br></p>
-<p align="left">🟢 Estudo Ciências da Computação na Faculdade Estácio.<br></p>
+<p align="left">🟡 Estudo Ciências da Computação na Faculdade Estácio.<br></p>
 <p align="left">🟢 Tenho como objetivo me tornar um desenvolvedor FullStack.<br><br><br><br><br></p>
 
 <h3 align="center">♨️ CONTATO ♨️ <br><br></h3>
