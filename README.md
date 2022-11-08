@@ -1,6 +1,6 @@
 <h1 align="left"> 👋 Hi, I’m @ruan-narici</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruan-narici&color=green" alt="Profile views" /> </p>
-<img align="right" height="600em" src="https://uploaddeimagens.com.br/images/004/108/414/full/github_img_1.jpg?1667869491"/>
+<img align="right" height="570em" src="https://uploaddeimagens.com.br/images/004/108/414/full/github_img_1.jpg?1667869491"/>
 <h1></h1>
 <h3 align="center">💡 SOBRE 💡<br><br></h3>
 <p align="left">🟢 Sou apaixonado por tecnologia e programação desde criança.<br></p>
