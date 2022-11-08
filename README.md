@@ -56,7 +56,7 @@
 <div align="left">
 <!--GRÁFICO---><img  align="center" src="https://activity-graph.herokuapp.com/graph?username=desenvjonathan&theme=tokyo-night&hide_border=true">
 <!--GRÁFICO_LINGUAGEM---><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruan-narici&theme=tokyonight&hide_border=true"/>
-<!--GRÁFICO_STATS---><img align="right" width= "600px" height="203px" src="https://github-readme-stats.vercel.app/api?username=ruan-narici&show_icons=true&custom_title=Ruan%20Narici%20Github%20Status&theme=tokyonight&hide_border=true">
+<!--GRÁFICO_STATS---><img align="right" width= "550px" height="203px" src="https://github-readme-stats.vercel.app/api?username=ruan-narici&show_icons=true&custom_title=Ruan%20Narici%20Github%20Status&theme=tokyonight&hide_border=true">
 </div>
 
 <!---
