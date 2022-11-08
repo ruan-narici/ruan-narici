@@ -22,11 +22,19 @@
 <br><br><br>
 <h3 align="center">👨🏽‍💻 LINGUAGEM DE PROGRAMAÇÃO 👨🏽‍💻</h3>
 <br><br>
+<div align="center">
 <!--HTML---><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><!--CSS---><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><!--JAVASCRIPT---><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><!--JAVA---><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/><!--C---><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><!--PASCAL---><img src="https://img.shields.io/badge/pascal%20-%23036bfc.svg?&style=for-the-badge&logo=pascal&logoColor=white"/>
+</div>
 <br><br>
 <h3 align="center">💾 SGBD 💾</h3>
 <br><br>
 <!--MYSQL---><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <!--MSSQL---><img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/> 
+<br><br>
+<h3 align="center">✒️ DESIGNER ✒️</h3>
+<br><br>
+<!--ADOBE PHOTOSHOP---><img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> 
+<!--ADOBE AFTER EFFECTS---><img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"/> 
+
 <br><br>
 <h3 align="center">🤵🏽 OFFICE 🤵🏽</h3>
 <br><br>
