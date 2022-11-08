@@ -53,6 +53,8 @@
 <!--STACKOVERFLOW---><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 </div>
 <br><br>
+<h3 align="center">📈 ATIVIDADE 📉</h3>
+<br>
 <div align="left">
 <!--GRÁFICO---><img  align="center" src="https://activity-graph.herokuapp.com/graph?username=desenvjonathan&theme=tokyo-night&hide_border=true">
 <!--GRÁFICO_LINGUAGEM---><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruan-narici&theme=tokyonight&hide_border=true"/>
