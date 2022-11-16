@@ -17,7 +17,7 @@
 </a>
 <!--INSTAGRAM---><a href="https://www.instagram.com/ruan.narici/" alt="Instagram" target="_blank"><>
 <img width = 120px align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
-</a>
+</a><br><br>
 <h1></h1>
 <br><br><br>
 <h3 align="center">👨🏽‍💻 LINGUAGEM DE PROGRAMAÇÃO 👨🏽‍💻</h3>
