@@ -8,7 +8,7 @@
 <p align="left">🟢 Utilizo do meu tempo livre para poder praticar ou criar projetos back-end e/ou front-end.<br></p>
 <p align="left">🟡 Estudo Ciências da Computação na Faculdade Estácio.<br></p>
 <p align="left">🟢 Tenho como objetivo me tornar um desenvolvedor FullStack.<br><br><br><br><br></p>
-
+<div align="center">
 <h3 align="center">♨️ CONTATO ♨️ <br><br></h3>
 <!--LINKEDIN---><a href="https://www.linkedin.com/in/ruan-narici-6a590416b/" target="_blank">
 <img width = 120px align="center" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -18,6 +18,7 @@
 <!--INSTAGRAM---><a href="https://www.instagram.com/ruan.narici/" alt="Instagram" target="_blank"><>
 <img width = 120px align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
 </a>
+</div>
 <h1></h1>
 <br><br>
 <h3 align="center">👨🏽‍💻 LINGUAGEM DE PROGRAMAÇÃO 👨🏽‍💻</h3>
