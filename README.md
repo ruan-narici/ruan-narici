@@ -4,10 +4,10 @@
 <h1></h1>
 <h3 align="center">💡 SOBRE 💡<br><br></h3>
 <p align="left">🟢 Sou apaixonado por tecnologia e programação desde criança.<br></p>
-<p align="left">🟢 Estou em transição de carreira aprofundando meus conhecimentos na área da programação para poder ficar cada vez mais preparado para o mercado de trabalho.<br></p>
+<p align="left">🟢Estou em transição de carreira aprofundando meus conhecimentos na área da programação para poder ficar cada vez mais preparado para o mercado de trabalho.<br></p>
 <p align="left">🟢 Utilizo do meu tempo livre para poder praticar ou criar projetos back-end e/ou front-end.<br></p>
 <p align="left">🟡 Estudo Ciências da Computação na Faculdade Estácio.<br></p>
-<p align="left">🟢 Tenho como objetivo me tornar um desenvolvedor FullStack.<br><br><br><br></p>
+<p align="left">🟢 Tenho como objetivo me tornar um desenvolvedor FullStack.<br><br><br><br><br></p>
 
 <h3 align="center">♨️ CONTATO ♨️ <br><br></h3>
 <!--LINKEDIN---><a href="https://www.linkedin.com/in/ruan-narici-6a590416b/" target="_blank">
@@ -17,9 +17,9 @@
 </a>
 <!--INSTAGRAM---><a href="https://www.instagram.com/ruan.narici/" alt="Instagram" target="_blank"><>
 <img width = 120px align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
-</a><br><br>
+</a>
 <h1></h1>
-<br><br><br>
+<br><br>
 <h3 align="center">👨🏽‍💻 LINGUAGEM DE PROGRAMAÇÃO 👨🏽‍💻</h3>
 <br>
 <div align="center">
