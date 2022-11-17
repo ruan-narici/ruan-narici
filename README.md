@@ -46,13 +46,7 @@
 <!--Microsoft PowerPoint---><img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
 <!--Microsoft Word---><img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=whit"/>
 <br><br>
-<h3 align="center">🏫 APRENDIZADO 🏫</h3>
-<br>
-<!--UDEMY---><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
-<!--YOUTUBE---><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
-<!--STACKOVERFLOW---><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-</div>
-<br><br>
+
 <h3 align="center">📈 ATIVIDADE 📉</h3>
 <br>
 <div align="left">
