@@ -1,55 +1,65 @@
-<h1 align="left"> 👋 Hi, I’m @ruan-narici</h1>
+# 👋 *Hi, I’m @ruan-narici*
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruan-narici&color=green" alt="Profile views" /> </p>
 <img align="right" height="580em" src="https://raw.githubusercontent.com/ruan-narici/ruan-narici/6c45d193c397e24e201dfd522191890171134cae/github_img_2.png"/>
-<h1></h1>
-<h3 align="center">💡 SOBRE 💡<br><br></h3>
-<p align="left">🟢 Sou apaixonado por tecnologia e programação desde criança.<br></p>
-<p align="left">🟢Estou em transição de carreira aprofundando meus conhecimentos na área da programação para poder ficar cada vez mais preparado para o mercado de trabalho.<br></p>
-<p align="left">🟢 Utilizo do meu tempo livre para poder praticar ou criar projetos back-end e/ou front-end.<br></p>
-<p align="left">🟡 Estudo Ciências da Computação na Faculdade Estácio.<br></p>
-<p align="left">🟢 Tenho como objetivo me tornar um desenvolvedor FullStack.<br><br><br><br><br></p>
-<div align="center">
-<h3 align="center">♨️ CONTATO ♨️ <br><br></h3>
-<!--LINKEDIN---><a href="https://www.linkedin.com/in/ruan-narici-6a590416b/" target="_blank">
-<img width = 120px align="center" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<!--WHATSAPP---><a href="https://wa.me/5577991586189?text=Sinta-se%20livre%20para%20entrar%20em%20contato%20comigo." alt="WhatsApp" target="_blank">
-<img width = 120px align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp">
-</a>
-<!--INSTAGRAM---><a href="https://www.instagram.com/ruan.narici/" alt="Instagram" target="_blank">
-<img width = 120px align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
-</a>
-</div>
-<h1></h1>
-<br><br>
-<h3 align="center">👨🏽‍💻 LINGUAGEM DE PROGRAMAÇÃO 👨🏽‍💻</h3>
-<br>
-<div align="center">
-<!--HTML---><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<!--CSS---><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<!--JAVASCRIPT---><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<!--JAVA---><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-<!--C---><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-<!--PASCAL---><img src="https://img.shields.io/badge/pascal%20-%23036bfc.svg?&style=for-the-badge&logo=pascal&logoColor=white"/>
-<br><br>
-<h3 align="center">💾 SGBD 💾</h3>
-<br>
-<!--MYSQL---><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<!--MSSQL---><img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/> 
-<br><br>
-<h3 align="center">✒️ DESIGNER ✒️</h3>
-<br>
-<!--ADOBE PHOTOSHOP---><img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> 
-<!--ADOBE AFTER EFFECTS---><img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"/> 
-<br><br>
-<h3 align="center">🤵🏽 OFFICE 🤵🏽</h3>
-<br>
-<!--Microsoft Excel---><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<!--Microsoft PowerPoint---><img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
-<!--Microsoft Word---><img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=whit"/>
-<br><br>
 
-<h3 align="center">📈 ATIVIDADE 📉</h3>
+---
+
+##  📃**SOBRE**
 <br>
+
+* Sou apaixonado por tecnologia e programação desde criança.
+* Estou em transição de carreira aprofundando meus conhecimentos na área da programação para poder ficar cada vez mais preparado para o mercado de trabalho.
+* Utilizo do meu tempo livre para poder praticar ou criar projetos back-end e/ou front-end.
+* Estudo Ciências da Computação na Faculdade Estácio.
+* Tenho como objetivo me tornar um desenvolvedor FullStack.
+
+---
+
+##  📞**CONTATO** 
+<br>
+
+<div align="left">
+
+[![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ruan-narici-6a590416b/)
+[![Contact](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ruan.narici/)
+![Contact](https://skillicons.dev/icons?i=discord)
+</div>
+
+---
+
+<div align="left">
+
+## 👨‍💻**LINGUAGEM DE PROGRAMAÇÃO**
+<br>
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,java)
+
+---
+
+## 💾**BANCO DE DADOS**
+<br>
+
+![My Skills](https://skillicons.dev/icons?i=mysql)
+
+---
+
+## ✒️**DESIGNER**
+<br>
+
+![My Skills](https://skillicons.dev/icons?i=ps,figma)
+
+---
+
+## **OUTROS**
+<br>
+
+![My Skills](https://skillicons.dev/icons?i=linux,git,github,vscode)
+
+---
+
+## 📈 **ATIVIDADE**
+<br>
+
 <div align="left">
 <!--GRÁFICO_LINGUAGEM---><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruan-narici&theme=tokyonight&hide_border=true"/>
 <!--GRÁFICO_STATS---><img align="right" width= "510px" height="203px" src="https://github-readme-stats.vercel.app/api?username=ruan-narici&show_icons=true&custom_title=Ruan%20Narici%20Github%20Status&theme=tokyonight&hide_border=true">
