@@ -35,7 +35,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=ps,figma)
 
-## **OUTROS**
+## 🛠️**OUTROS**
 
 ![My Skills](https://skillicons.dev/icons?i=linux,git,github,vscode)
   
