@@ -1,4 +1,4 @@
-# 👋 *Hi, I’m @ruan-narici*
+# 👋 *Olá, eu sou @ruan-narici*
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruan-narici&color=green" alt="Profile views" /> </p>
 <img align="right" height="580em" src="https://raw.githubusercontent.com/ruan-narici/ruan-narici/6c45d193c397e24e201dfd522191890171134cae/github_img_2.png"/>
 
@@ -16,7 +16,7 @@
 
 [![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ruan-narici-6a590416b/)
 [![Contact](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ruan.narici/)
-![Contact](https://skillicons.dev/icons?i=discord)
+[![Contact](https://skillicons.dev/icons?i=discord)](https://discord.com/channels/@me/1055241203001597993)
 </div>
 
 
