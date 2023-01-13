@@ -37,7 +37,7 @@
 
 ## 🛠️**OUTROS**
 
-![My Skills](https://skillicons.dev/icons?i=linux,git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=linux,git,github,vscode,eclipse)
   
 ## 📈 **ATIVIDADE**
 
