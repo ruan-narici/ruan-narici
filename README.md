@@ -42,8 +42,8 @@
 ## 📈 **ATIVIDADE**
 
 <div align="left">
-<!--GRÁFICO_LINGUAGEM---><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruan-narici&theme=tokyonight&hide_border=false"/>
-<!--GRÁFICO_STATS---><img align="right" width= "510px" height="203px" src="https://github-readme-stats.vercel.app/api?username=ruan-narici&show_icons=true&custom_title=Ruan%20Narici%20Github%20Status&theme=tokyonight&hide_border=false">
+<!--GRÁFICO_LINGUAGEM---><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruan-narici&theme=tokyonight&hide_border=true"/>
+<!--GRÁFICO_STATS---><img align="right" width= "510px" height="203px" src="https://github-readme-stats.vercel.app/api?username=ruan-narici&show_icons=true&custom_title=Ruan%20Narici%20Github%20Status&theme=tokyonight&hide_border=true">
 </div>
 
 <!---
