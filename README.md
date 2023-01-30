@@ -9,7 +9,7 @@
 * Estou em transição de carreira aprofundando meus conhecimentos na área da programação para poder ficar cada vez mais preparado para o mercado de trabalho.
 * Utilizo do meu tempo livre para poder praticar ou criar projetos back-end e/ou front-end.
 * Estudo Ciências da Computação na Faculdade Estácio.
-* Tenho como objetivo me tornar um desenvolvedor FullStack.
+* Tenho como objetivo me tornar um desenvolvedor back-end.
 
 ##  📞**CONTATO** 
 <div align="left">
