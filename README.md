@@ -25,7 +25,7 @@
   
 ##  📈**Atividade**
 
-<!--GRÁFICO_LINGUAGEM---><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruan-narici&layout=compact&hide_title=true&hide_border=true&border_radius=10&bg_color=242938&title_color=fff&text_color=fff&card_width=270"/>
+<!--GRÁFICO_LINGUAGEM---><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruan-narici&layout=compact&hide_title=true&hide_border=true&border_radius=10&bg_color=242938&title_color=fff&text_color=fff&card_width=265"/>
 <!--GRÁFICO_STATS---><img align="right" width= "510px" height="203px" src="https://github-readme-stats.vercel.app/api?username=ruan-narici&show_icons=true&hide_title=true&layout=compact&hide_border=true&border_radius=10&bg_color=242938&title_color=fff&text_color=fff&icon_color=f70&ring_color=f70&card_width=350">
 
 </div>
