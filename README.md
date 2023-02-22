@@ -19,7 +19,7 @@
 
 ##  🖥️**Tecnologias & Ferramentas**
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,ps,figma,linux,git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,ps,figma,linux,git,github,vscode,eclipse)
   
 
   
