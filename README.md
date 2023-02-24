@@ -16,7 +16,6 @@
 [![Contact](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ruan.narici/)
 [![Contact](https://skillicons.dev/icons?i=discord)](https://discord.com/channels/@me/1055241203001597993)
 
-
 ##  🖥️**Tecnologias & Ferramentas**
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,ps,figma,linux,git,github,vscode,eclipse)
