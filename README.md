@@ -2,7 +2,6 @@
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=ruan-narici&color=green" alt="Profile views"/>
 
-  
 ##  📃**Sobre**
 
 * 🎓 Estudo Ciências da Computação na Faculdade Estácio.
