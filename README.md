@@ -21,9 +21,9 @@
 #### FRONT-END
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js)
 #### BACK-END
-![My Skills](https://skillicons.dev/icons?i=java,maven,hibernate,spring,mysql,postman)
+![My Skills](https://skillicons.dev/icons?i=java,maven,hibernate,spring,mysql)
 #### UTILITÁRIOS
-![My Skills](https://skillicons.dev/icons?i=figma,ps,git,github,linux,vscode,eclipse)
+![My Skills](https://skillicons.dev/icons?i=figma,ps,git,github,linux,vscode,eclipse,postman)
   
 ##  📈**Atividade**
 
