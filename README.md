@@ -5,9 +5,9 @@
 ##  📃**Sobre**
 
 * 🎓 Estudo Ciências da Computação na Faculdade Estácio.
-* 💼 Estou em transição de carreira aprofundando meus conhecimentos na área da programação para poder ficar cada vez mais preparado para o mercado de trabalho.
+* 💼 Estou em transição de carreira aprofundando meus conhecimentos na área da programação para ficar cada vez mais preparado para o mercado de trabalho.
 * 📚 Atualmente estou estudando JAVA.
-* 🎯 Utilizo do meu tempo livre para praticar minha lógica da programação.
+* 🎯 Utilizo do meu tempo livre para praticar lógica da programação.
 * 👨‍💻 Tenho como objetivo me tornar um desenvolvedor back-end.
 
 ##  ⚡**Conecte-se comigo** 
@@ -18,9 +18,12 @@
 
 ##  🖥️**Tecnologias & Ferramentas**
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,ps,figma,linux,git,github,vscode,eclipse)
-  
-
+#### FRONT-END
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js)
+#### BACK-END
+![My Skills](https://skillicons.dev/icons?i=java,maven,hibernate,spring,mysql,postman)
+#### UTILITÁRIOS
+![My Skills](https://skillicons.dev/icons?i=figma,ps,git,github,linux,vscode,eclipse)
   
 ##  📈**Atividade**
 
