@@ -2,8 +2,6 @@
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=ruan-narici&color=green" alt="Profile views"/>
 
-Está chegando ao fim, 2023! 😁🎆
-
 ##  📃**Sobre**
 
 * 🎓 Estudo Ciências da Computação na Faculdade Estácio.
