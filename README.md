@@ -8,7 +8,7 @@
 * 💼 Estou em transição de carreira aprofundando meus conhecimentos na área da programação para ficar cada vez mais preparado para o mercado de trabalho.
 * 📚 Atualmente estou estudando PHP.
 * 🎯 Utilizo do meu tempo livre para praticar lógica da programação em plataformas de desafios competitivos de programação.
-* 👨‍💻 Tenho como objetivo me tornar um desenvolvedor sênior back-end.
+* 👨‍💻 Tenho como objetivo me tornar um desenvolvedor back-end sênior.
 
 ##  ⚡**Conecte-se comigo** 
 
