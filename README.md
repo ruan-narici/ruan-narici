@@ -1,6 +1,7 @@
 # *Olá 👋, eu sou Ruan Narici.*
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=ruan-narici&color=green" alt="Profile views"/>
+
 ##  📃**Sobre**
 
 
