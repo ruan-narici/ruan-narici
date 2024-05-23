@@ -6,10 +6,10 @@
 
 
 * 🎓 Estudo Ciências da Computação na Faculdade Estácio.
-* 💼 Estou em transição de carreira aprofundando meus conhecimentos na área da programação para ficar cada vez mais preparado para o mercado de trabalho.
-* 📚 Atualmente estou estudando PHP.
+* 💼 Atuo como auxiliar técnico de eletrônico e sou responsável pela programação de sistemas webs e embarcados.
+* 📚 Atualmente estou estudando Python.
 * 🎯 Utilizo do meu tempo livre para praticar lógica da programação em plataformas de desafios competitivos de programação.
-* 👨‍💻 Tenho como objetivo me tornar um desenvolvedor back-end sênior.
+* 👨‍💻 Tenho como objetivo continuar absorvendo muito conhecimento e permanecer como um eterno estudante.
 
 ##  ⚡**Conecte-se comigo** 
 
@@ -20,11 +20,11 @@
 ##  🖥️**Tecnologias & Ferramentas**
 
 #### FRONT-END
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,styledcomponents)
 #### BACK-END
-![My Skills](https://skillicons.dev/icons?i=php,java,maven,hibernate,spring,mysql)
+![My Skills](https://skillicons.dev/icons?i=py,django,php,java,maven,hibernate,spring,mysql)
 #### UTILITÁRIOS
-![My Skills](https://skillicons.dev/icons?i=figma,ps,git,github,linux,vscode,eclipse,postman)
+![My Skills](https://skillicons.dev/icons?i=figma,ps,git,github,linux,vscode,eclipse,pycharm,postman)
   
 ##  📈**Atividade**
 
