@@ -20,7 +20,7 @@
 ##  🖥️**Tecnologias & Ferramentas**
 
 #### FRONT-END
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,styledcomponents)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,styledcomponents)
 #### BACK-END
 ![My Skills](https://skillicons.dev/icons?i=c,py,django,php,java,maven,hibernate,spring,mysql)
 #### UTILITÁRIOS
