@@ -7,7 +7,7 @@
 
 * 🎓 Estudo Ciências da Computação na Faculdade Estácio.
 * 💼 Atuo como auxiliar técnico de eletrônico e sou responsável pela programação de sistemas webs e embarcados.
-* 📚 Atualmente estou estudando Python.
+* 📚 Atualmente estou estudando Java.
 * 🎯 Utilizo do meu tempo livre para praticar lógica da programação em plataformas de desafios competitivos de programação.
 * 👨‍💻 Tenho como objetivo continuar absorvendo muito conhecimento e permanecer como um eterno estudante.
 
