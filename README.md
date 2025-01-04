@@ -5,7 +5,7 @@
 ##  📃**Sobre**
 
 
-* 🎓 Estudo Ciências da Computação na Faculdade Estácio.
+* 🎓 Estudo Ciência da Computação na Faculdade Estácio.
 * 💼 Atuo como Desenvolvedor de Sistemas de TI e sou responsável pela programação de sistemas web e embarcados.
 * 📚 Atualmente estou estudando Java.
 * 🎯 Utilizo do meu tempo livre para praticar lógica da programação em plataformas de desafios competitivos de programação.
