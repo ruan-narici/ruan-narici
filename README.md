@@ -1,40 +1,44 @@
 # *Olá 👋, eu sou Ruan Narici.*
+
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=ruan-narici&color=green" alt="Profile views"/>
 
-##  📃**Sobre**
+## 🏛️ **Fundador & Engenheiro de Dados na [Narici One](https://naricione.com)**
 
+* 🎓 Estudante de **Ciência da Computação** na Estácio.
+* 💼 **Analista de Dados**: Atuo com modelagem complexa, pipelines de ETL/ELT, SQL Tuning e arquiteturas escaláveis para suporte estratégico.
+* 🚀 **Founder**: Lidero a **[Narici One](https://github.com/narici-one)**, focada em entregar Inteligência e Engenharia com rigor de software.
+* 🎯 **Competitive Programming**: Pratico lógica e algoritmos para manter o "Rank-S" em resolução de problemas.
+* 👨‍💻 **Eterno Estudante**: Atualmente aprofundando em arquiteturas Cloud-Native e otimização de bancos de dados de alta disponibilidade.
 
-* 🎓 Estudo Ciência da Computação na Faculdade Estácio.
-* 💼 Atuo como Analista de Banco de Dados, responsável por modelagem de dados, ETL, otimização de desempenho e integração de informações para suporte a decisões estratégicas.
-* 📚 Atualmente estou estudando SQL.
-* 🎯 Utilizo do meu tempo livre para praticar lógica da programação em plataformas de desafios competitivos de programação.
-* 👨‍💻 Tenho como objetivo continuar absorvendo muito conhecimento e permanecer como um eterno estudante.
+## ⚡ **Conecte-se comigo**
 
-##  ⚡**Conecte-se comigo** 
+[![Website](https://skillicons.dev/icons?i=vercel)](https://ruannarici.com/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ruan-narici/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ruan.narici/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/channels/@me/1055241203001597993)
 
-[![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ruan-narici/)
-[![Contact](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ruan.narici/)
-[![Contact](https://skillicons.dev/icons?i=discord)](https://discord.com/channels/@me/1055241203001597993)
+## 🖥️ **Tecnologias & Ferramentas**
 
-##  🖥️**Tecnologias & Ferramentas**
+#### 🏗️ DATA ARCHITECTURE & BACK-END
+![My Skills](https://skillicons.dev/icons?i=postgres,mysql,py,java,spring,docker,maven,php,c)
 
-#### FRONT-END
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react)
-#### BACK-END
-![My Skills](https://skillicons.dev/icons?i=c,py,php,java,maven,spring,postgres,mysql,docker)
-#### UTILITÁRIOS
-![My Skills](https://skillicons.dev/icons?i=figma,ps,git,github,linux,vscode,eclipse,idea,pycharm,arduino,postman)
+#### 🎨 FRONT-END & UI/UX
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,figma,ps)
+
+#### 🛠️ INFRA & UTILS
+![My Skills](https://skillicons.dev/icons?i=git,github,linux,vercel,vscode,postman,arduino)
+
+## 📈 **Atividade & Stats**
+
+<div align="center">
+  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruan-narici&layout=compact&hide_title=true&hide_border=true&border_radius=10&bg_color=242938&title_color=ffe&text_color=fff&card_width=245&hide=html,css,Jupyter+Notebook"/>
   
-##  📈**Atividade**
-
-<!--GRÁFICO_LINGUAGEM---><img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruan-narici&layout=compact&hide_title=true&hide_border=true&border_radius=10&bg_color=242938&title_color=ffe&text_color=fff&card_width=245&hide=html,css,Jupyter+Notebook"/>
-
-<!--GRÁFICO_STATS---> <!--- <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api?username=ruan-narici&show_icons=true&hide_title=true&layout=compact&hide_border=true&border_radius=10&bg_color=242938&title_color=fff&text_color=fff&icon_color=f70&ring_color=f70&card_width=345">--->
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api?username=ruan-narici&show_icons=true&hide_title=true&layout=compact&hide_border=true&border_radius=10&bg_color=242938&title_color=fff&text_color=fff&icon_color=f70&ring_color=f70&card_width=345">
 </div>
 
+<br /><br /><br />
 
-<!---
-ruan-narici/ruan-narici is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+*"Onde outros veem apenas linhas em um banco de dados, eu projeto a arquitetura do amanhã."*
+</div>
